@@ -1,0 +1,427 @@
+08-03 10:50:30.741 10233 11057 E ActivityThread: Failed to find provider info for downloads.com.wuba.zhuanzhuan
+08-03 11:35:36.057 20210 20226 E ActivityThread: Failed to find provider info for downloads.com.wuba.zhuanzhuan
+08-03 12:47:22.513 22796 22811 E ActivityThread: Failed to find provider info for downloads.com.wuba.zhuanzhuan
+08-03 14:26:56.299 15628 26269 E ActivityThread: Failed to find provider info for downloads.com.wuba
+08-03 15:38:43.476 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-03 15:38:46.306 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-03 15:38:46.459 28704 28718 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #45
+08-03 15:38:46.600 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-03 15:38:46.809 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-03 15:38:46.959 28704 28718 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-03 15:38:47.153 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #45
+08-03 15:38:47.307 28704 28718 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #45
+08-03 15:38:47.460 28704 28717 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #44
+08-03 20:58:54.320 10916 10933 I chatty  : uid=10638 com.wuba.plugin.dawn.process expire 2 lines
+08-03 20:59:14.637 10869 11017 I chatty  : uid=10638 com.wuba:downloadapkservice expire 14 lines
+08-03 21:00:04.957 10869 11017 I chatty  : uid=10638 com.wuba:downloadapkservice expire 11 lines
+08-03 21:02:31.469 10869 10869 I chatty  : uid=10638 com.wuba:downloadapkservice expire 3 lines
+08-03 21:04:43.157 10869 11017 I chatty  : uid=10638 com.wuba:downloadapkservice expire 12 lines
+08-03 21:04:43.312 10789 10789 I chatty  : uid=10638 com.wuba expire 1 line
+08-03 21:04:45.733 10952 10952 I chatty  : uid=10638 com.wuba.plugin.dawn.process expire 2 lines
+08-03 21:04:45.733 10983 10983 I chatty  : uid=10638 com.wuba expire 2 lines
+08-03 21:04:46.005 10869 10879 I chatty  : uid=10638 com.wuba:downloadapkservice expire 1 line
+08-03 21:04:52.991 10789 10809 I chatty  : uid=10638 com.wuba expire 1 line
+08-03 21:04:57.822 10869 10886 I chatty  : uid=10638 com.wuba:downloadapkservice expire 1 line
+08-03 21:04:58.449 10916 10933 I chatty  : uid=10638 com.wuba.plugin.dawn.process expire 1 line
+08-03 21:05:01.854 10869 11017 I chatty  : uid=10638 com.wuba:downloadapkservice expire 6 lines
+08-03 21:05:15.979 10789 14321 I chatty  : uid=10638 com.wuba expire 22 lines
+08-03 21:05:17.490 14437 14437 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan:legoservice count:0
+08-03 21:05:17.494 14437 14437 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-03 21:05:17.575 14437 14437 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-03 21:05:17.644 14437 14437 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-03 21:05:17.666 14437 14437 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:154
+08-03 21:05:20.921 10916 14368 I chatty  : uid=10638 com.wuba.plugin.dawn.process expire 22 lines
+08-03 21:05:23.742 10869 11017 I chatty  : uid=10638 com.wuba:downloadapkservice expire 10 lines
+08-03 21:05:23.792 10869 14308 I chatty  : uid=10638 com.wuba:downloadapkservice expire 2 lines
+08-03 21:05:23.837 10869 10869 I chatty  : uid=10638 com.wuba:downloadapkservice expire 3 lines
+08-04 11:02:48.878 29876 29891 E ActivityThread: Failed to find provider info for downloads.com.wuba.zhuanzhuan
+08-04 11:38:58.956  4899  6379 I ActivityManager: Start proc 8692:com.wuba.zhuanzhuan/u0a490 for service com.wuba.zhuanzhuan/.push.getui.GTPushService
+08-04 11:39:02.512  4899 10729 I ActivityManager: Start proc 8920:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:39:04.008  4899  7309 I ActivityManager: Process com.wuba.zhuanzhuan (pid 8692) has died
+08-04 11:39:04.814  4899  4932 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wuba/.activity.launch.LaunchActivity (has extras)} from uid 10037 on display 0
+08-04 11:39:05.592  4899  8759 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 8920) has died
+08-04 11:39:08.116  4899 10729 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.CategoryListActivity (has extras)} from uid 10640 on display 0
+08-04 11:39:09.108  4899  6815 I ActivityManager: Start proc 9068:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/.service.NetworkStateWatchService
+08-04 11:39:09.549  4899  8758 I ActivityManager: Start proc 9088:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:39:12.529  4899  7346 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 9088) has died
+08-04 11:39:13.170  4899  7309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:39:13.224  4899  6379 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:39:13.397  4899  8759 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:39:13.411  4899  4934 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:39:15.734  4899  8755 I ActivityManager: Process com.wuba.zhuanzhuan (pid 9068) has died
+08-04 11:39:22.882  4899 10746 I ActivityManager: START u0 {act=com.wuba.house##com.wuba.house.activity.HouseInfoListFragmentActivity##  cmp=com.wuba/.plugin.dawn.proxy.ActivityStub$Standard10 (has extras)} from uid 10640 on display 0
+08-04 11:39:23.259  4899  7312 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:39:23.277  4899  6309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:36.118  4899  7348 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:36.138  4899 10746 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:36.953  4899 10746 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:36.961  4899  8757 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:38.883  4899  8759 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.CategoryListActivity (has extras)} from uid 10640 on display 0
+08-04 11:40:39.087  4899  6309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:40:39.094  4899  8758 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:13.431  4899  7309 I ActivityManager: Start proc 10057:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 11:42:14.198  4899  8760 I ActivityManager: Start proc 10076:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:42:29.581  4899  4941 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:29.610  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:30.412  4899 10746 I ActivityManager: START u0 {act=com.wuba.job##com.wuba.job.activity.JobCategoryFragmentActivity##  cmp=com.wuba/.plugin.dawn.proxy.ActivityStub$Standard10 (has extras)} from uid 10640 on display 0
+08-04 11:42:30.804  4899 10747 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:30.812  4899 10731 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:32.550  4899  7348 I ActivityManager: START u0 {act=com.wuba.job##com.wuba.job.activity.JobInfoListFragmentActivity##com.wuba.job cmp=com.wuba/.plugin.dawn.proxy.ActivityStub$Standard09 (has extras)} from uid 10640 on display 0
+08-04 11:42:33.159  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:33.172  4899 10746 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:34.836  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:34.868  4899 10733 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:37.702  4899 10734 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:42:37.715  4899  6309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:17.815  4899 10748 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.CategoryListActivity (has extras)} from uid 10640 on display 0
+08-04 11:45:18.033  4899  8760 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:18.052  4899  7312 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:19.533  4899 10731 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:19.543  4899  6379 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:23.720  4899 10746 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:45:23.854  4899 10734 I ActivityManager: Process com.wuba.zhuanzhuan (pid 10057) has died
+08-04 11:45:26.204  4899  6380 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 10076) has died
+08-04 11:45:34.841  4899  8751 I ActivityManager: Start proc 11136:com.wuba.zhuanzhuan/u0a490 for service com.wuba.zhuanzhuan/.push.getui.GTPushService
+08-04 11:45:35.758  4899  6662 I ActivityManager: Start proc 11163:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:45:36.767  4899 10747 I ActivityManager: Process com.wuba.zhuanzhuan (pid 11136) has died
+08-04 11:45:36.787  4899  4941 I ActivityManager: Start proc 11230:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.igexin.sdk.PushReceiver
+08-04 11:45:38.952  4899  6662 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 11163) has died
+08-04 11:45:39.748  4899 10733 I ActivityManager: Start proc 11388:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:45:40.209  4899 10747 W BroadcastQueue: Exception when sending broadcast to ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.service.NetworkStateWatchService}
+08-04 11:45:40.220  4899 10747 I ActivityManager: Start proc 11427:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/.service.NetworkStateWatchService
+08-04 11:45:40.787  4899 10746 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 11388) has died
+08-04 11:45:40.984  4899  8755 I ActivityManager: Start proc 11452:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:45:42.259  4899  7348 I ActivityManager: Process com.wuba.zhuanzhuan (pid 11427) has died
+08-04 11:46:00.016  4899 10733 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 11452) has died
+08-04 11:48:53.586  4899  4941 I ActivityManager: Start proc 12188:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 11:48:53.934  4899  6380 I ActivityManager: Start proc 12204:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:48:55.610  4899 10732 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 12204) has died
+08-04 11:48:55.629  4899  6309 I ActivityManager: Process com.wuba.zhuanzhuan (pid 12188) has died
+08-04 11:52:22.636  4899  6662 I ActivityManager: Start proc 12972:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 11:52:23.189  4899  4934 I ActivityManager: Start proc 12989:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:52:24.580  4899  7348 I ActivityManager: Process com.wuba.zhuanzhuan (pid 12972) has died
+08-04 11:55:12.989  4899  4941 I ActivityManager: Start proc 13568:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 11:55:13.097  4899  6662 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 12989) has died
+08-04 11:55:13.513  4899  6380 I ActivityManager: Start proc 13598:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:55:14.254  4899 10746 I ActivityManager: Process com.wuba.zhuanzhuan (pid 13568) has died
+08-04 11:55:14.978  4899  4934 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 13598) has died
+08-04 11:56:49.291  4899  6309 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wuba/.activity.launch.LaunchActivity (has extras)} from uid 10037 on display 0
+08-04 11:56:49.692  4899 10748 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:49.940  4899  8754 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:51.631  4899 10746 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.MoreMainActivity (has extras)} from uid 10640 on display 0
+08-04 11:56:51.804  4899  6380 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:51.813  4899  7312 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:52.549  4899  7285 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.CopyrightActivity (has extras)} from uid 10640 on display 0
+08-04 11:56:52.667  4899  6309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:52.683  4899  7309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:53.330  4899 10734 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:56:53.337  4899  8751 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=5513, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:57:18.114  4899  4989 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-04 11:57:28.474  4899  4941 I ActivityManager: Force stopping com.wuba appid=10640 user=-1: installPackageLI
+08-04 11:57:28.474  4899  4941 I ActivityManager: Killing 5431:com.wuba/u0a640 (adj 0): stop com.wuba
+08-04 11:57:28.481  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.location.service.LocationService in 1000ms
+08-04 11:57:28.481  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.commons.thread.BatchIntentService in 10999ms
+08-04 11:57:28.482  4899  4941 W ActivityManager: Force removing ActivityRecord{3854b4e u0 com.wuba/.activity.more.MoreMainActivity t6352}: app died, no saved state
+08-04 11:57:28.484  4899  4989 W PackageManager: Attempt to re-install com.wuba without first uninstalling.
+08-04 11:57:28.525  4899  4941 I ActivityManager: Start proc 14659:com.wuba/u0a640 for activity com.wuba/.home.activity.HomeActivity
+08-04 11:57:28.541  4899  4941 I ActivityManager: Killing 5513:com.wuba:downloadapkservice/u0a640 (adj 500): stop com.wuba
+08-04 11:57:28.542  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/com.xiaomi.push.service.XMPushService in 10939ms
+08-04 11:57:28.542  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.zhuanzhuan.push.getui.PushDelegateService in 20938ms
+08-04 11:57:28.543  4899  4941 I ActivityManager: Killing 5549:com.wuba.plugin.dawn.process/u0a640 (adj 0): stop com.wuba
+08-04 11:57:28.543  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.plugin.dawn.PluginProcessService in 30937ms
+08-04 11:57:28.545  4899  4941 I ActivityManager:   Force finishing activity ActivityRecord{32d4bb9 u0 com.wuba/.home.activity.HomeActivity t6352}
+08-04 11:57:28.549  4899  8760 I WindowManager: WIN DEATH: Window{ad3b9dc u0 com.wuba/com.wuba.home.activity.HomeActivity}
+08-04 11:57:28.556  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{9e16752 u0 com.wuba/.location.service.LocationService}
+08-04 11:57:28.556  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{ecfe263 u0 com.wuba/.plugin.dawn.PluginProcessService}
+08-04 11:57:28.556  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{ec8aa16 u0 com.wuba/com.xiaomi.push.service.XMPushService}
+08-04 11:57:28.556  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{3aaf331 u0 com.wuba/.zhuanzhuan.push.getui.PushDelegateService}
+08-04 11:57:29.950  4899  4941 I ActivityManager: Start proc 14698:com.wuba:downloadapkservice/u0a640 for broadcast com.wuba/com.xiaomi.push.service.receivers.PingReceiver
+08-04 11:57:30.168  4899  6309 I ActivityManager: Start proc 14717:com.wuba.plugin.dawn.process/u0a640 for service com.wuba/.plugin.dawn.PluginProcessService
+08-04 11:57:32.370  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=14698, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:57:32.402  4899  8755 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=14698, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:57:32.436  4899  6662 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=14698, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:57:33.876  4899 10734 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=14698, uid=10640) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:57:42.715  4899  4941 I ActivityManager: Force stopping com.wuba appid=10640 user=-1: deletePackageX
+08-04 11:57:42.715  4899  4941 I ActivityManager: Killing 14659:com.wuba/u0a640 (adj 700): stop com.wuba
+08-04 11:57:42.716  4899  4941 I ActivityManager: Killing 14698:com.wuba:downloadapkservice/u0a640 (adj 500): stop com.wuba
+08-04 11:57:42.716  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.zhuanzhuan.push.getui.PushDelegateService in 1000ms
+08-04 11:57:42.717  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/com.xiaomi.push.service.XMPushService in 11000ms
+08-04 11:57:42.717  4899  4941 I ActivityManager: Killing 14717:com.wuba.plugin.dawn.process/u0a640 (adj 800): stop com.wuba
+08-04 11:57:42.718  4899  4941 W ActivityManager: Scheduling restart of crashed service com.wuba/.plugin.dawn.PluginProcessService in 20999ms
+08-04 11:57:42.719  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{935eea4 u0 com.wuba/.plugin.dawn.PluginProcessService}
+08-04 11:57:42.719  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{79febe u0 com.wuba/com.xiaomi.push.service.XMPushService}
+08-04 11:57:42.719  4899  4941 I ActivityManager:   Force stopping service ServiceRecord{dc52796 u0 com.wuba/.zhuanzhuan.push.getui.PushDelegateService}
+08-04 11:57:42.789  4899  4989 I PackageManager: Removing old permission: getui.permission.GetuiService.com.wuba from package com.wuba
+08-04 11:57:42.789  4899  4989 I PackageManager: Removing old permission: com.wuba.permission.MIPUSH_RECEIVE from package com.wuba
+08-04 11:57:42.789  4899  4989 I PackageManager: Removing old permission: com.wuba.permission.ZZPUSH_RECEIVE from package com.wuba
+08-04 11:57:42.789  4899  4989 I PackageManager: Removing old permission: com.wuba.permission.ACCESS_LOGIN_STATE from package com.wuba
+08-04 11:57:43.100  4899  4989 I ActivityManager: Force stopping com.wuba appid=10640 user=0: pkg removed
+08-04 11:57:56.687  4899  4989 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.SYSTEM_ALERT_WINDOW in package: com.wuba at: Binary XML file line #46
+08-04 11:58:00.231  4899  4941 I ActivityManager: Start proc 15240:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 11:58:00.956  4899 10729 I ActivityManager: Start proc 15259:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 11:58:06.762  4899  4989 W PackageManager: Unknown permission android.permission.ACCESS_LOCATION in package com.wuba
+08-04 11:58:06.762  4899  4989 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.wuba (protectionLevel=50 flags=0x38583e44)
+08-04 11:58:06.762  4899  4989 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.wuba (protectionLevel=18 flags=0x38583e44)
+08-04 11:58:06.762  4899  4989 W PackageManager: Unknown permission android.permission.ACCESS_GPS in package com.wuba
+08-04 11:58:06.762  4899  4989 W PackageManager: Unknown permission android.permission.BAIDU_LOCATION_SERVICE in package com.wuba
+08-04 11:58:06.763  4899  4989 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.wuba
+08-04 11:58:06.763  4899  4989 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.wuba
+08-04 11:58:06.763  4899  4989 W PackageManager: Unknown permission android.permission.ACCESS_COARSE_UPDATES in package com.wuba
+08-04 11:58:06.763  4899  4989 W PackageManager: Unknown permission android.permission.RECORD_VIDEO in package com.wuba
+08-04 11:58:14.370  4899  8760 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wuba/.activity.launch.LaunchActivity (has extras)} from uid 10037 on display 0
+08-04 11:58:14.437  4899  7285 I ActivityManager: Start proc 15413:com.wuba/u0a641 for activity com.wuba/.activity.launch.LaunchActivity
+08-04 11:58:18.973  4899  8759 I ActivityManager: Start proc 15516:com.wuba:downloadapkservice/u0a641 for service com.wuba/.push.PushHandleService
+08-04 11:58:18.996  4899 10734 I ActivityManager: Start proc 15529:com.wuba.plugin.dawn.process/u0a641 for service com.wuba/.plugin.dawn.PluginProcessService
+08-04 11:58:20.607  4899  8753 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:58:20.617  4899  6309 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:58:20.710  4899  8758 I ActivityManager: START u0 {cmp=com.wuba/.activity.city.CityHotActivity (has extras)} from uid 10641 on display 0
+08-04 11:58:20.823  4899  8759 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:58:22.623  4899  8755 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 11:58:22.668  4899  6796 I ActivityManager: START u0 {flg=0x24000000 cmp=com.wuba/.home.activity.HomeActivity (has extras)} from uid 10641 on display 0
+08-04 11:58:22.980  4899  6796 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.android.launcher.action.INSTALL_SHORTCUT flg=0x10 (has extras) } from com.wuba (pid=15413, uid=10641) is not exported from uid 10633 due to receiver com.sina.weibo/.gowidget.GoWidgetProvider
+08-04 11:58:25.879  4899  4932 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchActivity (has extras)} from uid 10641 on display 0
+08-04 11:58:26.277  4899  7285 W ActivityManager: Unable to start service Intent { cmp=com.wuba/com.iflytek.common.LaunchService } U=0: not found
+08-04 11:58:26.471  4899  8760 W ActivityManager: Unable to start service Intent { cmp=com.wuba/com.iflytek.common.LaunchService } U=0: not found
+08-04 11:58:27.873  4899  8753 I ActivityManager: START u0 {cmp=com.wuba/.tradeline.search.NativeSearchResultActivity (has extras)} from uid 10641 on display 0
+08-04 11:58:29.703  4899 10733 I ActivityManager: Process com.wuba.zhuanzhuan (pid 15240) has died
+08-04 11:58:34.519  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{3632e47 u0 com.wuba/.zhuanzhuan.push.getui.PushDelegateService}
+08-04 11:58:51.876  4899  8759 W ActivityManager: Duplicate finish request for ActivityRecord{ac1dc19 u0 com.wuba/.activity.searcher.SearchActivity t6353 f}
+08-04 11:58:53.005  4899  8753 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchActivity (has extras)} from uid 10641 on display 0
+08-04 11:58:53.119  4899  7309 W ActivityManager: Unable to start service Intent { cmp=com.wuba/com.iflytek.common.LaunchService } U=0: not found
+08-04 11:58:53.370  4899  6309 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 15259) has died
+08-04 11:59:11.748  4899 10733 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchCateActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:13.193  4899  8760 I ActivityManager: START u0 {cmp=com.wuba/.tradeline.search.NativeSearchResultActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:21.683  4899  7346 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:21.834  4899  8754 W ActivityManager: Unable to start service Intent { cmp=com.wuba/com.iflytek.common.LaunchService } U=0: not found
+08-04 11:59:26.532  4899  8751 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchCateActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:32.833  4899  8751 I ActivityManager: START u0 {cmp=com.wuba/.activity.searcher.SearchCateActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:34.124  4899 10747 I ActivityManager: START u0 {cmp=com.wuba/.tradeline.search.NativeSearchResultActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:36.046  4899  6796 I ActivityManager: START u0 {cmp=com.wuba/.job.activity.JobDetailActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:38.494  4899  8758 I ActivityManager: START u0 {flg=0x38800000 cmp=com.wuba/.loginsdk.activity.account.UserAccountFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:40.720  4899 10734 I ActivityManager: START u0 {flg=0x38800000 cmp=com.wuba/.loginsdk.activity.account.UserAccountFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:42.544  4899 10733 I ActivityManager: START u0 {flg=0x38800000 cmp=com.wuba/.loginsdk.activity.account.UserAccountFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 11:59:50.099  4899  8757 I ActivityManager: START u0 {cmp=com.wuba/.loginsdk.activity.account.UserAccountFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 12:00:00.766  4899  7312 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:00:03.715  4899  8755 I ActivityManager: START u0 {cmp=com.wuba/.hybrid.CommonWebActivity (has extras)} from uid 10641 on display 0
+08-04 12:00:49.026  4899 10729 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:02.842  4899  6796 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:11.376  4899  8759 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.MoreMainActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:13.709  4899  7348 I ActivityManager: START u0 {cmp=com.wuba/.loginsdk.activity.account.UserAccountListActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:14.700  4899 10748 I ActivityManager: START u0 {cmp=com.wuba/.loginsdk.activity.account.UserAccountFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:23.147  4899  7346 I ActivityManager: Start proc 17506:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:01:23.931  4899 10729 I ActivityManager: Start proc 17530:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 12:01:27.265  4899 10736 I ActivityManager: START u0 {cmp=com.wuba/.activity.personal.BasicInfoActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:43.610  4899  8759 I ActivityManager: START u0 {cmp=com.wuba/.activity.publish.PublishActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:48.682  4899  6796 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:01:53.763  4899 10729 I ActivityManager: START u0 {cmp=com.wuba/.activity.publish.PublishActivity (has extras)} from uid 10641 on display 0
+08-04 12:02:51.028  4899  7309 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:02:54.736  4899  7346 I ActivityManager: START u0 {cmp=com.wuba/.activity.publish.PublishActivity (has extras)} from uid 10641 on display 0
+08-04 12:03:37.117  4899  6796 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.MoreMainActivity (has extras)} from uid 10641 on display 0
+08-04 12:03:39.076  4899 10731 I ActivityManager: START u0 {cmp=com.wuba/.loginsdk.activity.account.UserAccountListActivity (has extras)} from uid 10641 on display 0
+08-04 12:03:43.893  4899  6815 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:03:48.671  4899  8757 I ActivityManager: START u0 {cmp=com.wuba/.activity.publish.PublishActivity (has extras)} from uid 10641 on display 0
+08-04 12:04:17.726  4899  4934 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:04:21.283  4899  8760 I ActivityManager: START u0 {cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:04:28.109  4899 10733 I ActivityManager: START u0 {cmp=com.wuba/.sale.activity.SaleDetailActivity (has extras)} from uid 10641 on display 0
+08-04 12:04:50.952  4899 10733 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.MoreMainActivity (has extras)} from uid 10641 on display 0
+08-04 12:04:51.107  4899  4969 I ActivityManager: Displayed com.wuba/.activity.more.MoreMainActivity: +134ms
+08-04 12:04:52.421  4899  6796 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.SettingMainActivity} from uid 10641 on display 0
+08-04 12:04:52.660  4899  4969 I ActivityManager: Displayed com.wuba/.activity.more.SettingMainActivity: +220ms
+08-04 12:04:56.538 15413 15413 E ViewRootImpl[MoreMainActivity]:   window=android.view.ViewRootImpl@7978164, title=com.wuba/com.wuba.activity.more.MoreMainActivity
+08-04 12:04:57.383  4899  7285 I ActivityManager: START u0 {cmp=com.wuba/.activity.more.RefreshAlarmActivity} from uid 10641 on display 0
+08-04 12:04:57.548  4899  4969 I ActivityManager: Displayed com.wuba/.activity.more.RefreshAlarmActivity: +145ms
+08-04 12:05:02.629 15413 15413 E ViewRootImpl[MoreMainActivity]:   window=android.view.ViewRootImpl@ccd971d, title=com.wuba/com.wuba.activity.more.MoreMainActivity
+08-04 12:05:04.355 15413 15413 E ViewRootImpl[MoreMainActivity]:   window=android.view.ViewRootImpl@7917ab7, title=com.wuba/com.wuba.activity.more.MoreMainActivity
+08-04 12:06:14.075 17506 17506 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 2 lines
+08-04 12:06:14.340  4899 10748 I ActivityManager: Process com.wuba.zhuanzhuan (pid 17506) has died
+08-04 12:06:25.879  4899 10734 I ActivityManager: Start proc 20066:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:06:25.940 20066 20066 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 27 lines
+08-04 12:06:26.450 17530 17530 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 5 lines
+08-04 12:06:26.836 20066 20076 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:06:26.849 20066 20100 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:06:27.255 20111 20111 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 2 lines
+08-04 12:06:27.359 20066 20121 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:07:03.050  4899 10732 I ActivityManager: Process com.wuba.zhuanzhuan (pid 20066) has died
+08-04 12:07:04.173  4899  4934 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 17530) has died
+08-04 12:08:27.036 15516 15655 V xiaomi  : [Thread:744] try send mi push message. packagename:com.wuba action:AckMessage
+08-04 12:08:27.057  4899  7346 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 12:09:05.247  4899  8751 I ActivityManager: Start proc 20971:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.igexin.sdk.PushReceiver
+08-04 12:09:05.320 15516 15655 V xiaomi  : [Thread:744] try send mi push message. packagename:com.wuba action:Notification
+08-04 12:09:05.421 20971 20971 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 21 lines
+08-04 12:09:05.959  4899  8754 I ActivityManager: Start proc 21005:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 12:09:06.095 21005 21005 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 7 lines
+08-04 12:09:06.329 20971 20971 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:09:06.577 20971 20981 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:09:06.694 20971 21035 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:09:06.766 21005 21005 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 2 lines
+08-04 12:09:06.810  4899  6379 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 12:09:06.811 20971 20971 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 2 lines
+08-04 12:09:06.879 21005 21017 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 1 line
+08-04 12:09:07.062  4899  6309 I ActivityManager: START u0 {dat=wbmain://push/1501819747060 flg=0x10000000 cmp=com.wuba/.activity.launch.LaunchActivity (has extras)} from uid 10641 on display 0
+08-04 12:09:07.095 21005 21005 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 13 lines
+08-04 12:09:07.391  4899  4969 I ActivityManager: Displayed com.wuba/.activity.launch.LaunchActivity: +314ms
+08-04 12:09:07.488 15516 15655 V xiaomi  : [Thread:744] try send mi push message. packagename:com.wuba action:Command
+08-04 12:09:07.628  4899  6796 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 12:09:07.770  4899 10731 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 12:09:07.833  4899  6309 I ActivityManager: START u0 {flg=0x14000000 cmp=com.wuba/.activity.webactivity.SingleLinkedActivity (has extras)} from uid 10641 on display 0
+08-04 12:09:08.008 21045 21045 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 2 lines
+08-04 12:09:08.049 21005 21005 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 2 lines
+08-04 12:09:08.223  4899  4969 I ActivityManager: Displayed com.wuba/.activity.webactivity.SingleLinkedActivity: +362ms
+08-04 12:09:08.403 29876 29876 I chatty  : uid=10490 com.wuba.zhuanzhuan:pushservice expire 1 line
+08-04 12:09:08.659 21005 21102 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 1 line
+08-04 12:09:08.798 20971 21109 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:09:09.001 20971 20981 I chatty  : uid=10490(com.wuba.zhuanzhuan) expire 1 line
+08-04 12:09:09.662 21005 21005 I chatty  : uid=10490 com.wuba.zhuanzhuan:legoservice expire 2 lines
+08-04 12:09:10.655  4899 10736 I ActivityManager: Process com.wuba.zhuanzhuan (pid 20971) has died
+08-04 12:09:47.212  4899  8751 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 21005) has died
+08-04 12:11:41.676  4899  8758 I ActivityManager: Start proc 21216:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:11:42.681  4899 10731 I ActivityManager: Start proc 21236:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 12:22:53.963  4899 10746 I ActivityManager: Process com.wuba.zhuanzhuan (pid 21216) has died
+08-04 12:22:54.472  4899 10736 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 21236) has died
+08-04 12:25:33.213  4899  4941 I ActivityManager: Start proc 21710:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:25:33.642  4899 10736 I ActivityManager: Start proc 21726:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 12:27:56.120  4899  4932 I ActivityManager: Process com.wuba.zhuanzhuan (pid 21710) has died
+08-04 12:28:23.113  4899  4941 I ActivityManager: Start proc 21820:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:28:24.539  4899 10729 I ActivityManager: Process com.wuba.zhuanzhuan (pid 21820) has died
+08-04 12:31:27.240  4899  4941 I ActivityManager: Start proc 21885:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:31:33.408  4899  6309 I ActivityManager: Process com.wuba.zhuanzhuan (pid 21885) has died
+08-04 12:34:07.294  4899  4941 I ActivityManager: Start proc 21986:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:34:08.344  4899  8759 I ActivityManager: Process com.wuba.zhuanzhuan (pid 21986) has died
+08-04 12:36:08.067  4899 10731 I ActivityManager: Start proc 22074:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:36:13.058  4899 10733 I ActivityManager: Process com.wuba.zhuanzhuan (pid 22074) has died
+08-04 12:38:23.923  4899  8760 I ActivityManager: Start proc 22188:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:38:26.307  4899 10729 I ActivityManager: Process com.wuba.zhuanzhuan (pid 22188) has died
+08-04 12:39:07.208  4899 10733 I ActivityManager: Process com.wuba.zhuanzhuan:pushservice (pid 29876) has died
+08-04 12:39:07.209  4899 10733 W ActivityManager: Scheduling restart of crashed service com.wuba.zhuanzhuan/com.igexin.download.DownloadService in 1000ms
+08-04 12:39:07.209  4899 10733 W ActivityManager: Scheduling restart of crashed service com.wuba.zhuanzhuan/.push.getui.PushDelegateService in 11000ms
+08-04 12:39:08.221  4899  4941 I ActivityManager: Start proc 22447:com.wuba.zhuanzhuan:pushservice/u0a490 for service com.wuba.zhuanzhuan/com.igexin.download.DownloadService
+08-04 12:39:08.694 22447 22468 E ActivityThread: Failed to find provider info for downloads.com.wuba.zhuanzhuan
+08-04 12:39:08.941  4899  8753 I ActivityManager: Start proc 22472:com.wuba.zhuanzhuan/u0a490 for service com.wuba.zhuanzhuan/.push.getui.GTPushService
+08-04 12:39:10.526  4899  4941 W BroadcastQueue: Permission Denial: receiving Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } to com.wuba/.push.NotificationReceiver requires com.wuba.zhuanzhuan.permission.ZZPUSH_RECEIVE due to sender com.wuba.zhuanzhuan (uid 10490)
+08-04 12:39:12.283  4899 10732 I ActivityManager: Process com.wuba.zhuanzhuan (pid 22472) has died
+08-04 12:41:55.075  4899  6309 I ActivityManager: Start proc 22562:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:42:12.792  4899  6796 I ActivityManager: Process com.wuba.zhuanzhuan (pid 22562) has died
+08-04 12:43:02.198  4899 10736 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 21726) has died
+08-04 12:44:55.760  4899  8759 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 12:45:12.927  4899  4934 I ActivityManager: Start proc 22912:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 12:45:13.799  4899 10731 I ActivityManager: Start proc 22942:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 12:45:39.439  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{3a92280 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:02:30.066  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{51fd4c5 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:11:17.161  4899  8758 I ActivityManager: Process com.wuba.zhuanzhuan (pid 22912) has died
+08-04 13:12:07.225  4899  7309 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 22942) has died
+08-04 13:13:23.125  4899  8753 I ActivityManager: Start proc 23291:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 13:13:23.522  4899  7312 I ActivityManager: Start proc 23308:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 13:13:24.418  4899  8758 I ActivityManager: Process com.wuba.zhuanzhuan (pid 23291) has died
+08-04 13:13:38.528  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{c30aee7 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:17:35.864  4899 10729 I ActivityManager: Start proc 23408:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 13:17:37.847  4899 10731 I ActivityManager: Process com.wuba.zhuanzhuan (pid 23408) has died
+08-04 13:20:13.906  4899  6264 I ActivityManager: Start proc 23485:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 13:28:26.009  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{8c2ffd5 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:40:19.973  4899 10748 I ActivityManager: Process com.wuba.zhuanzhuan (pid 23485) has died
+08-04 13:40:24.268  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{ae80fd8 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:43:23.251  4899  4941 I ActivityManager: Start proc 23824:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 13:43:38.679  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{cfbaa11 u0 com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService}
+08-04 13:44:02.359  4899  6815 I ActivityManager: Process com.wuba.zhuanzhuan (pid 23824) has died
+08-04 14:09:50.568  4899  8760 I ActivityManager: Start proc 24165:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.lego.clientlog.LegoRecevier
+08-04 14:09:50.786 24165 24165 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:09:50.797 24165 24165 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:50.880 24165 24165 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:50.940 24165 24165 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:09:50.975 24165 24165 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:156
+08-04 14:09:53.158  4899  7309 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 23308) has died
+08-04 14:09:53.774 24165 24165 D Event   : No subscribers registered for event class com.wuba.zhuanzhuan.event.b.a
+08-04 14:09:53.800  4899 10736 I ActivityManager: Start proc 24273:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 14:09:54.089 24273 24273 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan:legoservice count:0
+08-04 14:09:54.095 24273 24273 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:54.162 24273 24273 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:54.286 24273 24273 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:09:54.445 24273 24273 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:159
+08-04 14:09:54.537  4899  6309 I ActivityManager: Process com.wuba.zhuanzhuan (pid 24165) has died
+08-04 14:09:55.689  4899 10736 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 24273) has died
+08-04 14:09:55.863  4899 10747 I ActivityManager: Start proc 24337:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.igexin.sdk.PushReceiver
+08-04 14:09:56.330 24337 24337 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:09:56.348 24337 24337 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:56.437 24337 24337 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:56.504 24337 24337 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:09:56.527 24337 24337 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:203
+08-04 14:09:56.631  4899 10731 I ActivityManager: Start proc 24380:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 14:09:56.958 24380 24380 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan:legoservice count:0
+08-04 14:09:56.987 24380 24380 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:57.607 24380 24380 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:09:57.931 24380 24380 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:09:57.990 24380 24380 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:763
+08-04 14:09:58.524 24337 24337 D Event   : No subscribers registered for event class com.wuba.zhuanzhuan.event.b.a
+08-04 14:10:04.875  4899  7346 I ActivityManager: Process com.wuba.zhuanzhuan (pid 24337) has died
+08-04 14:10:11.912  4899 10729 I ActivityManager: START u0 {cmp=com.wuba/.house.activity.HouseCategoryListFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 14:10:12.147  4899  4969 I ActivityManager: Displayed com.wuba/.house.activity.HouseCategoryListFragmentActivity: +221ms
+08-04 14:10:20.120  4899 10746 I ActivityManager: START u0 {cmp=com.wuba/.house.activity.HouseInfoListFragmentActivity (has extras)} from uid 10641 on display 0
+08-04 14:10:20.407  4899  4969 I ActivityManager: Displayed com.wuba/.house.activity.HouseInfoListFragmentActivity: +274ms
+08-04 14:10:23.660  4899 10733 I ActivityManager: START u0 {cmp=com.wuba/.house.activity.HouseMapActivity (has extras)} from uid 10641 on display 0
+08-04 14:10:24.149  4899  4969 I ActivityManager: Displayed com.wuba/.house.activity.HouseMapActivity: +470ms
+08-04 14:10:29.463  4899  4932 I ActivityManager: Start proc 24643:com.wuba.zhuanzhuan/u0a490 for service com.wuba.zhuanzhuan/.push.getui.GTPushService
+08-04 14:10:29.982  4899  8757 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 24380) has died
+08-04 14:10:30.364 24643 24643 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:10:30.373 24643 24643 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:30.458 24643 24643 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:30.520 24643 24643 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:10:30.539 24643 24643 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:194
+08-04 14:10:30.678  4899  7346 I ActivityManager: Start proc 24701:com.wuba.zhuanzhuan:legoservice/u0a490 for service com.wuba.zhuanzhuan/com.lego.clientlog.LegoSendAndWriteService
+08-04 14:10:30.993 24701 24701 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan:legoservice count:0
+08-04 14:10:30.999 24701 24701 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:31.300 24701 24701 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:31.489 24701 24701 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:10:31.556 24701 24701 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:400
+08-04 14:10:32.152 24643 24643 D Event   : No subscribers registered for event class com.wuba.zhuanzhuan.event.b.a
+08-04 14:10:36.186  4899 10736 I ActivityManager: Process com.wuba.zhuanzhuan (pid 24643) has died
+08-04 14:10:36.370 15413 15413 E chwn    : onReceive>>Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4000010 cmp=com.wuba/.job.network.JobNetBroadcastReceiver (has extras) }
+08-04 14:10:36.399  4899  8758 I ActivityManager: Start proc 24912:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/.service.NetworkStateWatchService
+08-04 14:10:36.521 24912 24912 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:10:36.533 24912 24912 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:36.593 24912 24912 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:10:36.631 24912 24912 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:10:36.648 24912 24912 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:115
+08-04 14:10:38.621 24912 24912 D Event   : No subscribers registered for event class com.wuba.zhuanzhuan.event.b.a
+08-04 14:10:45.339  4899  7312 I ActivityManager: Process com.wuba.zhuanzhuan:legoservice (pid 24701) has died
+08-04 14:10:46.137 15413 15413 E chwn    : onReceive>>Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4000010 cmp=com.wuba/.job.network.JobNetBroadcastReceiver (has extras) }
+08-04 14:10:46.528 15516 25175 E ActivityThread: Failed to find provider info for downloads.com.wuba
+08-04 14:10:54.748 25300 15413 F google-breakpad: M CC004000 00000000 00005000 91CC79CE524802FCBBFDBB7F734B6B380 libcom_wuba_uc_rsa.so
+08-04 14:10:54.752 25300 15413 F google-breakpad: M E6793000 00000000 00006000 5C4A2370BCE97DA7018C3E7813A9C7C20 libcom_wuba_aes_ExecV4_0_1.so
+08-04 14:10:54.791 15413 15413 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x40 in tid 15413 (com.wuba)
+08-04 14:10:55.016 25307 25307 F DEBUG   : pid: 15413, tid: 15413, name: com.wuba  >>> com.wuba <<<
+08-04 14:10:55.026 25307 25307 F DEBUG   :     #00 pc 0006b02e  /data/app/com.wuba-1/lib/arm/libBaiduMapSDK_base_v3_7_3.so (_ZN9_baidu_vi8CVStringaSERKS0_+13)
+08-04 14:10:55.027 25307 25307 F DEBUG   :     #01 pc 00068189  /data/app/com.wuba-1/lib/arm/libBaiduMapSDK_map_v3_7_3.so
+08-04 14:10:55.027 25307 25307 F DEBUG   :     #02 pc 00020da9  /data/app/com.wuba-1/lib/arm/libBaiduMapSDK_map_v3_7_3.so
+08-04 14:10:55.027 25307 25307 F DEBUG   :     #03 pc 0001788b  /data/app/com.wuba-1/lib/arm/libBaiduMapSDK_map_v3_7_3.so (Java_com_baidu_platform_comjni_map_basemap_JNIBaseMap_removeOneOverlayItem+106)
+08-04 14:10:55.027 25307 25307 F DEBUG   :     #04 pc 01cc91a5  /data/app/com.wuba-1/oat/arm/base.odex (offset 0x1c60000)
+08-04 14:11:00.936  4899 25383 W ActivityManager:   Force finishing activity com.wuba/.house.activity.HouseMapActivity
+08-04 14:11:01.036  4899 10747 I WindowManager: WIN DEATH: Window{3eda2d8 u0 com.wuba/com.wuba.house.activity.HouseCategoryListFragmentActivity}
+08-04 14:11:01.036  4899  6662 I ActivityManager: Process com.wuba (pid 15413) has died
+08-04 14:11:01.038  4899  6662 W ActivityManager: Scheduling restart of crashed service com.wuba/.commons.thread.BatchIntentService in 1000ms
+08-04 14:11:01.038  4899  6662 W ActivityManager: Scheduling restart of crashed service com.wuba/.location.service.LocationService in 1000ms
+08-04 14:11:01.045  4899 10748 I WindowManager: WIN DEATH: Window{2fb7208 u0 com.wuba/com.wuba.house.activity.HouseInfoListFragmentActivity}
+08-04 14:11:01.047  4899 10733 I WindowManager: WIN DEATH: Window{a3ac5aa u0 com.wuba/com.wuba.house.activity.HouseMapActivity}
+08-04 14:11:01.047  4899 10733 W WindowManager: Force-removing child win Window{b3dd784 u0 SurfaceView - com.wuba/com.wuba.house.activity.HouseMapActivity} from container Window{a3ac5aa u0 com.wuba/com.wuba.house.activity.HouseMapActivity}
+08-04 14:11:01.049  4899  6258 W InputDispatcher: channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+08-04 14:11:01.049  4899  6258 E InputDispatcher: channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+08-04 14:11:01.053  4899  6379 I WindowManager: WIN DEATH: Window{6bfe53a u0 com.wuba/com.wuba.home.activity.HomeActivity}
+08-04 14:11:01.053  4899  6379 W InputDispatcher: Attempted to unregister already unregistered input channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)'
+08-04 14:11:01.067  4899  6662 I ActivityManager: Start proc 25391:com.wuba/u0a641 for activity com.wuba/.house.activity.HouseInfoListFragmentActivity
+08-04 14:11:01.126  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{166fdfc u0 com.wuba/com.igexin.download.DownloadService}
+08-04 14:11:01.242 25391 25391 W Tinker.TinkerLoader: tryLoadPatchFiles:patch dir not exist:/data/user/0/com.wuba/tinker
+08-04 14:11:01.751 25391 25391 D auth info: mcode: 5E:12:A4:B3:1E:0D:CB:4F:82:7D:59:A5:3B:DA:C1:CE:7B:7B:3C:FB;com.wuba
+08-04 14:11:01.899 25391 25391 W linker  : library "libssl.so" ("/system/lib/libssl.so") needed or dlopened by "/data/app/com.wuba-1/lib/arm/libcom_wuba_uc_rsa.so" is not accessible for the namespace "classloader-namespace" - the access is temporarily granted as a workaround for http://b/26394120, note that the access will be removed in future releases of Android.
+08-04 14:11:01.901 25391 25391 W linker  : library "libcrypto.so" ("/system/lib/libcrypto.so") needed or dlopened by "/data/app/com.wuba-1/lib/arm/libcom_wuba_uc_rsa.so" is not accessible for the namespace "classloader-namespace" - the access is temporarily granted as a workaround for http://b/26394120, note that the access will be removed in future releases of Android.
+08-04 14:11:02.085 15516 15655 V xiaomi  : [Thread:744] try send mi push message. packagename:com.wuba action:Command
+08-04 14:11:02.126  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 14:11:02.146  4899  8757 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 14:11:02.670  4899 10733 E DatabaseUtils: java.lang.SecurityException: com.wuba was not granted  this permission: android.permission.WRITE_SETTINGS.
+08-04 14:11:02.682  4899  6309 E DatabaseUtils: java.lang.SecurityException: com.wuba was not granted  this permission: android.permission.WRITE_SETTINGS.
+08-04 14:11:02.932  4899  4969 I ActivityManager: Displayed com.wuba/.house.activity.HouseInfoListFragmentActivity: +1s876ms
+08-04 14:11:23.105  4899 10747 I ActivityManager: Process com.wuba.zhuanzhuan (pid 24912) has died
+08-04 14:11:23.475  4899 10733 I ActivityManager: Start proc 25736:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.igexin.sdk.PushReceiver
+08-04 14:11:23.915 25736 25736 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:11:23.924 25736 25736 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:11:24.006 25736 25736 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:11:24.051 25736 25736 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:11:24.079 25736 25736 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:194
+08-04 14:11:24.220  4899  7312 I ActivityMa

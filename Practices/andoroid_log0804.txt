@@ -1,0 +1,32 @@
+08-04 14:11:00.936  4899 25383 W ActivityManager:   Force finishing activity com.wuba/.house.activity.HouseMapActivity
+08-04 14:11:01.036  4899 10747 I WindowManager: WIN DEATH: Window{3eda2d8 u0 com.wuba/com.wuba.house.activity.HouseCategoryListFragmentActivity}
+08-04 14:11:01.036  4899  6662 I ActivityManager: Process com.wuba (pid 15413) has died
+08-04 14:11:01.038  4899  6662 W ActivityManager: Scheduling restart of crashed service com.wuba/.commons.thread.BatchIntentService in 1000ms
+08-04 14:11:01.038  4899  6662 W ActivityManager: Scheduling restart of crashed service com.wuba/.location.service.LocationService in 1000ms
+08-04 14:11:01.045  4899 10748 I WindowManager: WIN DEATH: Window{2fb7208 u0 com.wuba/com.wuba.house.activity.HouseInfoListFragmentActivity}
+08-04 14:11:01.047  4899 10733 I WindowManager: WIN DEATH: Window{a3ac5aa u0 com.wuba/com.wuba.house.activity.HouseMapActivity}
+08-04 14:11:01.047  4899 10733 W WindowManager: Force-removing child win Window{b3dd784 u0 SurfaceView - com.wuba/com.wuba.house.activity.HouseMapActivity} from container Window{a3ac5aa u0 com.wuba/com.wuba.house.activity.HouseMapActivity}
+08-04 14:11:01.049  4899  6258 W InputDispatcher: channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+08-04 14:11:01.049  4899  6258 E InputDispatcher: channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+08-04 14:11:01.053  4899  6379 I WindowManager: WIN DEATH: Window{6bfe53a u0 com.wuba/com.wuba.home.activity.HomeActivity}
+08-04 14:11:01.053  4899  6379 W InputDispatcher: Attempted to unregister already unregistered input channel '6bfe53a com.wuba/com.wuba.home.activity.HomeActivity (server)'
+08-04 14:11:01.067  4899  6662 I ActivityManager: Start proc 25391:com.wuba/u0a641 for activity com.wuba/.house.activity.HouseInfoListFragmentActivity
+08-04 14:11:01.126  4899  4941 I ActivityManager: Waited long enough for: ServiceRecord{166fdfc u0 com.wuba/com.igexin.download.DownloadService}
+08-04 14:11:01.242 25391 25391 W Tinker.TinkerLoader: tryLoadPatchFiles:patch dir not exist:/data/user/0/com.wuba/tinker
+08-04 14:11:01.751 25391 25391 D auth info: mcode: 5E:12:A4:B3:1E:0D:CB:4F:82:7D:59:A5:3B:DA:C1:CE:7B:7B:3C:FB;com.wuba
+08-04 14:11:01.899 25391 25391 W linker  : library "libssl.so" ("/system/lib/libssl.so") needed or dlopened by "/data/app/com.wuba-1/lib/arm/libcom_wuba_uc_rsa.so" is not accessible for the namespace "classloader-namespace" - the access is temporarily granted as a workaround for http://b/26394120, note that the access will be removed in future releases of Android.
+08-04 14:11:01.901 25391 25391 W linker  : library "libcrypto.so" ("/system/lib/libcrypto.so") needed or dlopened by "/data/app/com.wuba-1/lib/arm/libcom_wuba_uc_rsa.so" is not accessible for the namespace "classloader-namespace" - the access is temporarily granted as a workaround for http://b/26394120, note that the access will be removed in future releases of Android.
+08-04 14:11:02.085 15516 15655 V xiaomi  : [Thread:744] try send mi push message. packagename:com.wuba action:Command
+08-04 14:11:02.126  4899 10729 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 14:11:02.146  4899  8757 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.wuba.zhuanzhuan.push.common flg=0x10 (has extras) } from com.wuba (pid=15516, uid=10641) is not exported from uid 10490 due to receiver com.wuba.zhuanzhuan/.XiaomiPushReceiver
+08-04 14:11:02.670  4899 10733 E DatabaseUtils: java.lang.SecurityException: com.wuba was not granted  this permission: android.permission.WRITE_SETTINGS.
+08-04 14:11:02.682  4899  6309 E DatabaseUtils: java.lang.SecurityException: com.wuba was not granted  this permission: android.permission.WRITE_SETTINGS.
+08-04 14:11:02.932  4899  4969 I ActivityManager: Displayed com.wuba/.house.activity.HouseInfoListFragmentActivity: +1s876ms
+08-04 14:11:23.105  4899 10747 I ActivityManager: Process com.wuba.zhuanzhuan (pid 24912) has died
+08-04 14:11:23.475  4899 10733 I ActivityManager: Start proc 25736:com.wuba.zhuanzhuan/u0a490 for broadcast com.wuba.zhuanzhuan/com.igexin.sdk.PushReceiver
+08-04 14:11:23.915 25736 25736 W Tinker.TinkerLoader: tinker safe mode preferName:tinker_own_config_com.wuba.zhuanzhuan count:0
+08-04 14:11:23.924 25736 25736 I Tinker.TinkerDexLoader: classloader: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:11:24.006 25736 25736 I Tinker.TinkerDexLoader: after loaded classloader: com.tencent.tinker.loader.AndroidNClassLoader[DexPathList[[zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes2.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes3.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/classes.dex.jar", zip file "/data/user/0/com.wuba.zhuanzhuan/tinker/patch-8a354d98/dex/test.dex.jar", zip file "/data/app/com.wuba.zhuanzhuan-1/base.apk"],nativeLibraryDirectories=[/data/app/com.wuba.zhuanzhuan-1/lib/arm64, /system/fake-libs64, /data/app/com.wuba.zhuanzhuan-1/base.apk!/lib/arm64-v8a, /system/lib64, /vendor/lib64]]]
+08-04 14:11:24.051 25736 25736 W Tinker.Tinker: tinker patch directory: /data/user/0/com.wuba.zhuanzhuan/tinker
+08-04 14:11:24.079 25736 25736 I Tinker.DefaultLoadReporter: patch load result, path:/data/user/0/com.wuba.zhuanzhuan/tinker, code:0, cost:194
+08-04 14:11:24.220  4899  7312 I ActivityMa
